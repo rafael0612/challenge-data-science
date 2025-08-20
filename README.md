@@ -77,7 +77,7 @@ Google colab notebook AluraStoreLatam.ipynb
    - Ejecuta la **celda base** del notebook (ya incluida) que monta Drive y carga las 4 tiendas como DataFrames (`tienda`, `tienda2`, `tienda3`, `tienda4`) o las listas `tiendas`/`nombres`.
 
 3) **Pegar el bloque de análisis integral**  
-   - En una nueva celda, pega el bloque titulado **“Análisis integral Alura Store (versión Rafael)”** que:
+   - En una nueva celda, pega el bloque titulado **“Análisis integral Alura Store ”** que:
      - Normaliza columnas (soporta alias).
      - Calcula **ingresos**, **ventas por categoría**, **valoración promedio**, **envío promedio**, **productos top/bottom**.
      - Genera gráficos de barras y **línea mensual unificada** (Mes/Año jerárquico).
@@ -85,12 +85,6 @@ Google colab notebook AluraStoreLatam.ipynb
 
 4) **(Opcional) Pegar el EXTRA geográfico**  
    - En otra celda, pega el bloque **EXTRA (OPCIONAL): Análisis geográfico** para visualizar dispersión y heatmaps (hexbin) por tienda, y tablas de desempeño por región (`lat_bin`, `lon_bin`).
-
-5) **Informe final**  
-   - Agrega una celda **Markdown** con el informe final (plantilla más abajo) y explica la recomendación.
-
-6) **(Opcional) Exportar resultados**  
-   - Exporta métricas y tablas a CSV para publicar o versionar.
 
 ---
 
