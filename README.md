@@ -52,19 +52,19 @@ Los CSV de las 4 tiendas ya están preparados y se cargan en el notebook base (`
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/angelesGladin/challenge-data-science.git
+git clone https://github.com/rafael0612/challenge-data-science.git
 ```
 
 2. Instala las dependencias necesarias:
 ```bash
-pip install pandas matplotlib seaborn plotly folium
+pip install pandas numpy matplotlib seaborn IPython 
+
 ```
 
 3. Ejecuta e Google Colab:
 ```bash
 Google colab notebook AluraStoreLatam.ipynb
 ```
-
 ---
 
 ## ▶️ Ejecución en Google Colab (paso a paso)
